@@ -5,7 +5,9 @@
 <h3>190107058 Adil Adambek</h3>
 <h3>190103218 Olzhatayev Yerzhan</h3>
 <h3>Prim's Algorithm</h3>
-![image](https://user-images.githubusercontent.com/75549884/111874473-9ff00c00-89bf-11eb-9328-58cca4844f2b.png) <br>
+ <br>
+![image](https://user-images.githubusercontent.com/75549884/111874571-1e4cae00-89c0-11eb-99b0-aec42b101664.png)
 
 <h3>Kruskal's Algorithm</h3>
-![image](https://user-images.githubusercontent.com/75549884/111874508-df1e5d00-89bf-11eb-957c-592c3d60da9a.png)
+![image](https://user-images.githubusercontent.com/75549884/111874579-27d61600-89c0-11eb-9f41-60ade34a6933.png)
+
